@@ -1,1 +1,1 @@
-You can actualy see how this web site looks on netlify https://davidk-techpro.netlify.app/
+You can actually see how this website looks on Netlify: https://davidk-techpro.netlify.app/
